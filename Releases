@@ -1,0 +1,8 @@
+Origin: L0gin repo
+Label: L0gin repo
+Suite: stable
+Version: 1.0
+Codename: l0ginrepo
+Architectures: iphoneos-arm
+Components: main
+Description: l0gin private tweaks repo
